@@ -20,7 +20,7 @@ public class Main
 				}
 			}
 		}
-		for (int i = 1; i < 13; i++)
+		for (int i = 1; i <= 12 i++)
 		{
 			System.out.println(i + " " + vector[i]);
 		}
